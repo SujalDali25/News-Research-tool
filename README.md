@@ -25,14 +25,18 @@ Just paste a URL and ask anything — summaries, fact-checking, sentiment, Q&A �
 
 ---
 
-📌 Example Use Cases
-Role	Use Case Example
-🧑‍💻 Researcher	TL;DR + Ask follow-up questions on a policy blog
-🗞 Journalist	Fact-checking a news story against its source content
-📊 Analyst	Extracting key metrics or sentiment from finance articles
-🧑‍🎓 Student	Simplify complex editorials or opinion pieces
+## 📌 Example Use Cases
+
+| Role          | Use Case Example                                              |
+|---------------|---------------------------------------------------------------|
+| 🧑‍💻 Researcher  | TL;DR + Ask follow-up questions on a policy blog             |
+| 🗞 Journalist   | Fact-checking a news story against its source content         |
+| 📊 Analyst     | Extracting key metrics or sentiment from finance articles     |
+| 🧑‍🎓 Student     | Simplify complex editorials or opinion pieces                |
 
 ---
+
+## 📂 Project Structure
 
 news-research-gpt/
 │
@@ -45,11 +49,10 @@ news-research-gpt/
 
 ---
 
-🧩 Coming Soon
-✅ Upload and chat with PDFs
+## 🧩 Coming Soon
 
-🌍 Compare insights from multiple URLs
+- ✅ Upload and chat with PDFs  
+- 🌍 Compare insights from multiple URLs  
+- 📊 Source credibility scoring and bias detection  
+- 🧠 Sentiment + stance analysis for political content  
 
-📊 Source credibility scoring and bias detection
-
-🧠 Sentiment + stance analysis for political content
