@@ -1,0 +1,11 @@
+langchain>=0.2.0
+langchain-google-genai>=1.0.0
+python-dotenv>=1.0.0
+streamlit>=1.36.0
+unstructured>=0.14.0
+tiktoken>=0.7.0
+faiss-cpu>=1.8.0
+libmagic>=1.0
+python-magic>=0.4.27
+python-magic-bin>=0.4.14
+openai>=1.35.0
